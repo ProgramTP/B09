@@ -1,3 +1,4 @@
+// Convert folder structure Year/coursecode to coursecode/year
 tgt="$2"
 src="$1"
 if [ "$#" -ne 2 ]; then
